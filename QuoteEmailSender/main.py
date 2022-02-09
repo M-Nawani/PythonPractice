@@ -2,9 +2,9 @@ import smtplib
 import random
 import datetime as dt
 
-EMAIL_SENDER = "testemailed007@gmail.com"
-EMAIL_RECEIVER = "testemail0121@yahoo.com"
-PASSWORD = "Country@123"
+EMAIL_SENDER = "inserttestemailhere"
+EMAIL_RECEIVER = "inserttestemailhere"
+PASSWORD = "inserttestpasswordhere"
 
 now = dt.datetime.now()
 current_day = now.weekday()
